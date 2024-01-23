@@ -71,13 +71,4 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift"
             width="40" height="40" /> </a> </p>
 
-<p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=matejdrienovsky&show_icons=true&locale=en&layout=compact"
-        alt="matejdrienovsky" /></p>
 
-<p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=matejdrienovsky&show_icons=true&locale=en"
-        alt="matejdrienovsky" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matejdrienovsky&"
-        alt="matejdrienovsky" /></p>
